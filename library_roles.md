@@ -2,14 +2,14 @@
 
 ## Core Framework Libraries
 
-### Flask (v2.0.1)
+### Flask 
 - Provides the web application framework
 - Handles HTTP requests and routing
 - Manages web sessions and cookies
 - Serves static files and templates
 - Handles form submissions and file uploads
 
-### Flask-SQLAlchemy (v2.5.1)
+### Flask-SQLAlchemy 
 - Object Relational Mapping (ORM) for database operations
 - Manages database connections and sessions
 - Handles database migrations
@@ -18,28 +18,28 @@
 
 ## Audio Processing Libraries
 
-### pygame (v2.1.2)
+### pygame 
 - Handles audio playback system
 - Manages multiple audio channels
 - Controls sound mixing and volume
 - Provides audio file format support
 - Handles real-time audio operations
 
-### gTTS (v2.2.3)
+### gTTS 
 - Converts text to speech
 - Interfaces with Google's Text-to-Speech API
 - Generates natural-sounding voice output
 - Supports multiple languages
 - Creates audio files from text input
 
-### scipy (v1.7.1)
+### scipy 
 - Processes audio signals
 - Handles wave file operations
 - Provides scientific computing tools
 - Manages audio file format conversions
 - Supports audio data analysis
 
-### numpy (v1.21.2)
+### numpy 
 - Handles numerical operations for audio processing
 - Provides array operations for data management
 - Supports mathematical computations
@@ -48,7 +48,7 @@
 
 ## Date and Time Management
 
-### python-dateutil (v2.8.2)
+### python-dateutil 
 - Handles date parsing and manipulation
 - Manages timezone operations
 - Provides date arithmetic functionality
